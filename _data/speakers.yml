@@ -1,0 +1,38 @@
+- 
+  id: 3
+  name: "Rohan"
+  surname: "Jayaweera"
+  company: "Google"
+  title: "Country Consaltant"
+  bio: "<p>Perform the role of the Sri Lanka Country Consultant for Google Inc. in Sri Lanka. Brand evangelist for Google in Sri Lanka and create awareness on Google products and services with all stakeholders. Responsible for managing and establishing key strategic relationships across verticals.Areas of execution are Establish Googles vision for Sri Lanka.Establish the strategy to endorse and establish the vision for Sri Lanka.Lead and manage each and every initiative of Google in Sri LankaResponsibility for all products of Google, enabling products & initiatives for Sri Lanka.Lead the localization efforts to support Sri Lanka specific content, languages etc.Design, implement the first ever Google Doodle for Sri Lanka.Design & execute the first ever g|DayX in Sri Lanka.Support the first ever YouTube partnerships in Sri Lanka.Establish & acquire largest publishers to Google Display Network</p>'"
+  thumbnailUrl: jayaweera.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/104972732101836665867"}
+    - {name: "twitter", link: "https://twitter.com/rohan205"}
+   
+- 
+  id: 15
+  name: "Prabath"
+  surname: "Siriwardena"
+  company: "WSO2"
+  title: "Director of Security"
+  bio: "<p>Prabath is the Director of Security at WSO2.Prior to his current role he chaired the Management Committee – Integration Technologies. He holds a degree in Civil Engineering and a masters in Computer Science from University of Moratuwa Sri Lanka. He is a member of OASIS Identity Metasystem Interoperability (IMI) TC OASIS eXtensible Access Control Markup Language (XACML) TC and OASIS Security Services (SAML) TC. Prabath is also a member of Apache Axis PMC. He has delivered talks at numerous international conferences including OSCON ApacheCon WSO2Con EIC OSDC and IDentity Next.He enjoys reading during his spare time</p>'"
+  thumbnailUrl: prabath.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/104063262378861625904"}
+    - {name: "twitter", link: "https://twitter.com/prabath"}
+
+- 
+  id: 16
+  name: "Ramindu"
+  surname: "Sanka Deshapriya"
+  company: "Sahana Software Foundation"
+  title: "Branch Manager"
+  bio: "<p></p>'"
+  thumbnailUrl: ramidu.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RaminduDeshapriya"}
+    - {name: "twitter", link: "https://twitter.com/rami_lota"}

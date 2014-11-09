@@ -1,0 +1,7 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "GDG Sri Lanka", description: "GDG Sri Lanka - Open and volunteer geek community", link: "", imageUrl: "gdg-lviv.svg"}
+    
+
+  

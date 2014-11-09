@@ -1,0 +1,102 @@
+- 
+  date: "2014-11-29"
+  dateReadable: "November 29"
+  tracks: 
+    - {title: "Session", color: "#90be4e"}
+   
+  timeslots:
+    - {
+      startTime: "13:00",
+      endTime: "13:30",
+      sessionIds: [029]
+    }
+
+    - {
+    	startTime: "13:30",
+    	endTime: "13:45",
+    	sessionIds: [003]
+    }
+
+    - {
+        startTime: "13:45",
+        endTime: "14:30",
+        sessionIds: [015]
+    }
+
+    - {
+        startTime: "14:30",
+        endTime: "14:45",
+        sessionIds: [016]
+    } 
+    - {
+        startTime: "14:45",
+        endTime: "15:00",
+        sessionIds: [018]
+    }
+
+
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [017]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [032]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [019]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "16:50",
+        sessionIds: [020]
+    }
+    - {
+        startTime: "16:50",
+        endTime: "17:00",
+        sessionIds: [021]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [030]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [023]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:30",
+        sessionIds: [024]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "19:00",
+        sessionIds: [025]
+    }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [026]
+    }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [027]
+    }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [028]
+    }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [031]
+    }

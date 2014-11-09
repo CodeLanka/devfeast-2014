@@ -1,0 +1,120 @@
+- 
+  id: 0
+  name: "Dushantha"
+  surname: " Ranwala"
+  title: "Developer Manager"
+  thumbnailUrl: dushantha.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DushanthaRanwala"}
+    - {name: "twitter", link: "https://twitter.com/DushanthaR"}
+    
+- 
+  id: 1
+  name: "Charitha"
+  surname: "Madusankha"
+  title: "Developer Manager"
+  thumbnailUrl: charith.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101598622161713562345"}
+    
+- 
+  id: 2
+  name: "Sadun"
+  surname: "Nilanka"
+  title: "Developer Manager"
+  thumbnailUrl: sadhun.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SadunNilanka"}
+   
+- 
+  id: 4
+  name: "Pamuditha"
+  surname: "Imalka"
+  title: "Organizing Committee"
+  thumbnailUrl: pamuditha.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PamudithaImalka"}
+    - {name: "twitter", link: "https://twitter.com/Pamudithaimalka"}
+    
+- 
+  id: 7
+  name: "Udaya"
+  surname: " Gunathilaka"
+  title: "Organizing Committee"
+  thumbnailUrl: udaya.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+UdayaGunathilaka"}
+    
+- 
+  id: 8
+  name: "Pasindu"
+  surname: "De Silva"
+  title: "Organizing Committee"
+  thumbnailUrl: pasindu.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PasinduDeSilva"}
+    
+- 
+  id: 11
+  name: "Rajitha"
+  surname: "Yamasinge"
+  title: "Organizing Committee"
+  thumbnailUrl: rajitha.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106031810555948530024"}
+    - {name: "twitter", link: "https://twitter.com/RajithYamasinge"}
+
+- 
+  id: 10
+  name: "Roshan"
+  surname: "Lakmal"
+  title: "Organizing Committee"
+  thumbnailUrl: roshan.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106031810555948530024"}
+    - {name: "twitter", link: "https://twitter.com/RajithYamasinge"}
+
+- 
+  id: 12
+  name: "Tharaka"
+  surname: "Suneth"
+  title: "Organizing Committee"
+  thumbnailUrl: hellowish.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/107528088517342921817"}
+  
+- 
+  id: 12
+  name: "Tharaka"
+  surname: "Devinda"
+  title: "Organizing Committee"
+  thumbnailUrl: tharaka.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TharakaDevinda"} 
+
+- 
+  id: 12
+  name: "Harith"
+  surname: "Perera"
+  title: "Organizing Committee"
+  thumbnailUrl: harith.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HarithPerera9127"}    
+    - {name: "twitter", link: "https://twitter.com/rhperera"}  
