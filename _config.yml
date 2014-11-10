@@ -53,7 +53,7 @@ rightNavigationButtons:
 heroImage: "srilanka.jpg"
 heroTitle: "<typeout> "
 eventDate: ""
-typeoutTextValues: '"GDG DevFest SriLanka 2014", "Season Android","29-November-2014"'
+typeoutTextValues: '"GDG DevFest SriLanka 2014", "Session Android","29-November-2014"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/RR7AiG", text: "Register Here"}
@@ -77,7 +77,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
