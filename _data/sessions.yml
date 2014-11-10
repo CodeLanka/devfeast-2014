@@ -12,7 +12,7 @@
   subtype: workshop
   speakers: [3,]
   language: en
-  complexity: ""
+  complexity: "Beginner"
 -
   id: 017
   title: "Java/Web Security"
@@ -20,7 +20,7 @@
   subtype: workshop
   speakers: [15,]
   language: en
-  complexity: ""
+  complexity: "Expert"
 
 -
   id: 015
@@ -47,7 +47,7 @@
   subtype: workshop
   speakers: [16,]
   language: en
-  complexity: "" 
+  complexity: "Intermediate" 
 -
   id: 020
   title: "Tea Break"
