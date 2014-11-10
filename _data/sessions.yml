@@ -76,10 +76,11 @@
   id: 032
   title: "JS"
   description: ""
+  speakers: [17,]
   subtype: workshop
  
   language: en
-  complexity: ""  
+  complexity: "Intermediate"  
 -
   id: 030
   title: "App Demo"
