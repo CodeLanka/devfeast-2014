@@ -8,8 +8,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Season 2014"
 email: "gdgsrilanka@gmail.com"
 description: "GDG DevFest is a set of events all around the world.2nd time in Sri Lanka"
-baseurl: ""
-url: "127.0.0.0"
+baseurl: "http://codelanka.github.io/devfeast-2014"
+url: "http://codelanka.github.io/devfeast-2014"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -77,7 +77,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

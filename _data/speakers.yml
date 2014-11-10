@@ -36,16 +36,3 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RaminduDeshapriya"}
     - {name: "twitter", link: "https://twitter.com/rami_lota"}
-
-- 
-  id: 17
-  name: "Arunoda"
-  surname: "Susiripala"
-  company: "Yalu"
-  title: ""
-  bio: "<p></p>'"
-  thumbnailUrl: arunoda.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ArunodaSusiripala"}
-    - {name: "twitter", link: "https://twitter.com/arunoda"}       
