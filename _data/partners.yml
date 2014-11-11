@@ -9,9 +9,5 @@
     - {name: "ReadMe", description: "ReadMe", link: "https://www.readme.lk", imageUrl: "readme.png", width: "170px"}
     - {name: "LetMeKnow", description: "LetMeKnow", link: "https://www.LetMeKnow.lk", imageUrl: "letmeknow.png", width: "170px"}
     
-- 
-  group: "Radio Partners"
-  elements:
-      - {name: "TNL Redio", description: "TNL Redio", link: "https://www.tnlredio.lk", imageUrl: "tnl.png", width: "120px"}
 
   
