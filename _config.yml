@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "/Registation/", text: "Register Here"}
+ - {link: "devfeast-2014/Registation/", text: "Register Here"}
 rightNavigationButtons:
- - {link: "/Registation/", text: "Register Here"}
+ - {link: "devfeast-2014/Registation/", text: "Register Here"}
 
 # Hero Block
 heroImage: "srilanka.jpg"
@@ -56,7 +56,7 @@ eventDate: ""
 typeoutTextValues: '"GDG DevFest SriLanka 2014", "Session Android","29-November-2014"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "/Registation/", text: "Register Here"}
+ - {link: "devfeast-2014/Registation/", text: "Register Here"}
  
 
 # About Block
