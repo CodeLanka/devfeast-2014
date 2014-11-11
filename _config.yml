@@ -110,8 +110,8 @@ venueFeatures: [""]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfestsl"
-twitterFeed: "https://twitter.com/search?f=realtime&q=%23devfestsl&src=typd"
+twitterHashTag: "DevFestLK"
+twitterFeed: "https://twitter.com/search?f=realtime&q=%23DevFestLK&src=typd"
 
 # Partners Block
 organizersTitle: "Organizers"
