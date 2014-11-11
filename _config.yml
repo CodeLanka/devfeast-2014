@@ -57,6 +57,7 @@ typeoutTextValues: '"GDG DevFest SriLanka 2014", "Session Android","29-November-
 typeoutFallback: "Season"
 heroButtons:
  - {link: "Registation/", text: "Register Here"}
+ - {link: "http://goo.gl/QVPz4e", text: "Become a speaker"}
  
 
 # About Block
