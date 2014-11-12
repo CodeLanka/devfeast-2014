@@ -8,6 +8,7 @@
   elements: 
     - {name: "ReadMe", description: "ReadMe", link: "https://www.readme.lk", imageUrl: "readme.png", width: "170px"}
     - {name: "LetMeKnow", description: "LetMeKnow", link: "https://www.LetMeKnow.lk", imageUrl: "letmeknow.png", width: "170px"}
+    - {name: "TechGuru", description: "TechGuru", link: "http://techguru.lk/", imageUrl: "techguru.jpg", width: "170px"}
     
 
   
