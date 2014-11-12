@@ -48,4 +48,79 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ArunodaSusiripala"}
-    - {name: "twitter", link: "https://twitter.com/arunoda"}    
+    - {name: "twitter", link: "https://twitter.com/arunoda"} 
+- 
+  id: 18
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+- 
+  id: 19
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+- 
+  id: 20
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 21
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+- 
+  id: 22
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+- 
+  id: 23
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>'"
+  thumbnailUrl: Google-Developers.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
