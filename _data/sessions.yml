@@ -53,15 +53,14 @@
   title: "Tea Break"
   description: ""
   subtype: workshop
-  speakers: [20,]
-
+ 
   complexity: "" 
 -
   id: 021
   title: "Presentation 04"
   description: ""
   subtype: workshop
- speakers: [21,]
+
   language: en
   complexity: "" 
 -
@@ -69,7 +68,7 @@
   title: "Vega Car"
   description: ""
   subtype: workshop
-  speakers: [22,]
+  speakers: [20,]
   language: en
   complexity: ""   
 -
@@ -86,7 +85,7 @@
   title: "App Demo"
   description: ""
   subtype: workshop
-  speakers: [23,]
+  speakers: [21,]
   language: en
   complexity: ""   
 -
@@ -94,7 +93,7 @@
   title: "Presentation 05"
   description: ""
   subtype: workshop
-  speakers: [24,]
+  
   language: en
   complexity: ""   
 
@@ -120,7 +119,7 @@
   title: "Presentation 08"
   description: "Lady"
   subtype: workshop
-  speakers: [27,]
+  speakers: [22,]
   language: en
   complexity: ""     
 -
