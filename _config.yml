@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "Registration/", text: "Register Here"}
+ - {link: "/Registration/", text: "Register Here"}
 rightNavigationButtons:
- - {link: "Registration/", text: "Register Here"}
+ - {link: "/Registration/", text: "Register Here"}
 
 # Hero Block
 heroImage: "srilanka.jpg"
