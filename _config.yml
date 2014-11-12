@@ -53,7 +53,7 @@ rightNavigationButtons:
 heroImage: "srilanka.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "29-November-2014"
-typeoutTextValues: '"SriLanka", "Colombo"'
+typeoutTextValues: '" SriLanka", " Colombo"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "Registration/", text: "Register Here"}
