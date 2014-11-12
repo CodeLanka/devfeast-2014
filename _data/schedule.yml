@@ -76,11 +76,7 @@
         sessionIds: [024]
     }
     
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [026]
-    }
+   
     - {
         startTime: "",
         endTime: "",
