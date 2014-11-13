@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "/Registration/", text: "Register Here"}
+ - {link: "http://devfestsrilanka2014.peatix.com", text: "Register Here"}
 rightNavigationButtons:
- - {link: "/Registration/", text: "Register Here"}
+ - {link: "http://devfestsrilanka2014.peatix.com", text: "Register Here"}
 
 # Hero Block
 heroImage: "srilanka.jpg"
@@ -56,7 +56,7 @@ eventDate: "29-November-2014"
 typeoutTextValues: '" SriLanka ", " Colombo "'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "Registration/", text: "Register Here"}
+ - {link: "http://devfestsrilanka2014.peatix.com", text: "Register Here"}
  - {link: "http://goo.gl/QVPz4e", text: "Become a speaker"}
  
 
